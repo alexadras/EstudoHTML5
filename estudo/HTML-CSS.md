@@ -10,7 +10,7 @@ HTML 5 – 2014
 
 ### anatomia de uma tag HTML
 
-![image-20201210150814807](image_html-css\image-20201210150814807.png)
+<img src="image_html-css\image-20201210150814807.png" alt="image-20201210150814807" style="zoom:50%;" />
 
 ## Semântica
 Como organizar os elementos 
@@ -28,7 +28,7 @@ Era usado a tag <div>  para  separar o conteúdo. O que forçava o uso excessivo
 <section>seção , <aside>,<header> cabeçalho, <article> artigo, <footer>rodapé,<h1>..<h6> seções de texto
 ```
 
-![](image_html-css\image-20201210141017188.png)
+<img src="image_html-css\image-20201210141017188.png" style="zoom:50%;" />
 
 ### Comentários no código HTML
 
@@ -116,7 +116,7 @@ linhas -->
 
 ​	O elemento **CSS edita o estilo** de um elemento HTML:
 
-![image-20201210165716607](image_html-css\image-20201210165716607.png)
+<img src="image_html-css\image-20201210165716607.png" alt="image-20201210165716607" style="zoom:50%;" />
 
 ### adicionar um arquivo CSS na página HTML
 
@@ -267,7 +267,7 @@ A borda podemos configurar no elemento CSS o **largura, o estilo** (sólida, pon
 }
 ```
 
-Resultado: ![image-20201210194707550](image_html-css\image-20201210194707550.png)
+Resultado: <img src="image_html-css\image-20201210194707550.png" alt="image-20201210194707550" style="zoom: 80%;" />
 
 Pode usar-se parâmetros para cada propriedade da borda:
 
