@@ -19,7 +19,7 @@ Como organizar os elementos
 
 Era usado a tag <div>  para  separar o conteúdo. O que forçava o uso excessivo de classes, que tornava o código confuso e bagunçado. 
 
-<img src="C:\Users\Simone\AppData\Roaming\Typora\typora-user-images\image-20201210140058017.png" alt="image-20201210140058017" style="zoom:80%;" />
+<img src="image_html-css\image-20201210140058017.png" alt="image-20201210140058017" style="zoom:80%;" />
 
 ### Na versão HTML 5
 
@@ -28,7 +28,7 @@ Era usado a tag <div>  para  separar o conteúdo. O que forçava o uso excessivo
 <section>seção , <aside>,<header> cabeçalho, <article> artigo, <footer>rodapé,<h1>..<h6> seções de texto
 ```
 
-![](C:\Users\Simone\AppData\Roaming\Typora\typora-user-images\image-20201210141017188.png)
+![](image_html-css\image-20201210141017188.png)
 
 ### Comentários no código HTML
 
@@ -106,7 +106,7 @@ linhas -->
      </ol>
     ```
 
-  ![image-20201210150447185](C:\Users\Simone\AppData\Roaming\Typora\typora-user-images\image-20201210150447185.png)
+  ![image-20201210150447185](image_html-css\image-20201210150447185.png)
 
 # CSS3
 
@@ -116,7 +116,7 @@ linhas -->
 
 ​	O elemento **CSS edita o estilo** de um elemento HTML:
 
-![image-20201210165716607](C:\Users\Simone\AppData\Roaming\Typora\typora-user-images\image-20201210165716607.png)
+![image-20201210165716607](image_html-css\image-20201210165716607.png)
 
 ### adicionar um arquivo CSS na página HTML
 
@@ -168,7 +168,7 @@ Para indicar, no CSS, a edição de estilo de uma classe e de um ID:
 
 ## Box Model
 
-<img src="C:\Users\Simone\AppData\Roaming\Typora\typora-user-images\image-20201210172618064.png" alt="image-20201210172618064" style="zoom:60%;" />
+<img src="image_html-css\image-20201210172618064.png" alt="image-20201210172618064" style="zoom:60%;" />
 
 Todo elemento HTML pode ser considerado uma caixa (box), até as tags `div`, `p`, `a`. Cada box tem cinco dimensões modificáveis:
 
@@ -201,7 +201,7 @@ Então a dimensão total de uma caixa específica é a soma das dimensões. Por 
 }
 ```
 
-<img src="C:\Users\Simone\AppData\Roaming\Typora\typora-user-images\image-20201210182703045.png" alt="image-20201210182703045" style="zoom:40%;border: solid 1px black;" />
+<img src="image_html-css\image-20201210182703045.png" alt="image-20201210182703045" style="zoom:40%;border: solid 1px black;" />
 
 - Com valor **diferente de altura(height) e comprimento(width)**, onde o valor de **height vem primeiro**:
 
@@ -213,7 +213,7 @@ Então a dimensão total de uma caixa específica é a soma das dimensões. Por 
 }
 ```
 
-<img src="C:\Users\Simone\AppData\Roaming\Typora\typora-user-images\image-20201210182956250.png" alt="image-20201210182956250" style="zoom:40%;border: solid 1px black;" />
+<img src="image_html-css\image-20201210182956250.png" alt="image-20201210182956250" style="zoom:40%;border: solid 1px black;" />
 
 - Com valor **diferente para todas as direções**, que são separadas, seguindo a ordem: **top(topo), right(direita), bottom(baixo) e left(esquerda)**:
 
@@ -225,7 +225,7 @@ Então a dimensão total de uma caixa específica é a soma das dimensões. Por 
 }
 ```
 
-<img src="C:\Users\Simone\AppData\Roaming\Typora\typora-user-images\image-20201210183357252.png" alt="image-20201210183357252"  style="zoom:40%;border: solid 1px black;"  />
+<img src="image_html-css\image-20201210183357252.png" alt="image-20201210183357252"  style="zoom:40%;border: solid 1px black;"  />
 
 - Determinar cada valor **separadamente** :
 
@@ -239,7 +239,7 @@ Então a dimensão total de uma caixa específica é a soma das dimensões. Por 
 }
 ```
 
-<img src="C:\Users\Simone\AppData\Roaming\Typora\typora-user-images\image-20201210184123225.png" alt="image-20201210184123225"  style="zoom:40%;border: solid 1px black;"  />
+<img src="image_html-css\image-20201210184123225.png" alt="image-20201210184123225"  style="zoom:40%;border: solid 1px black;"  />
 
 ### Usando a propriedade _background_
 
@@ -267,7 +267,7 @@ A borda podemos configurar no elemento CSS o **largura, o estilo** (sólida, pon
 }
 ```
 
-Resultado: ![image-20201210194707550](C:\Users\Simone\AppData\Roaming\Typora\typora-user-images\image-20201210194707550.png)
+Resultado: ![image-20201210194707550](image_html-css\image-20201210194707550.png)
 
 Pode usar-se parâmetros para cada propriedade da borda:
 
@@ -302,7 +302,7 @@ coisa{
 }
 ```
 
-<img src="C:\Users\Simone\AppData\Roaming\Typora\typora-user-images\image-20201210200209481.png" alt="image-20201210200209481" style="zoom:50%;" />
+<img src="image_html-css\image-20201210200209481.png" alt="image-20201210200209481" style="zoom:50%;" />
 
 ```css
 coisa{
@@ -310,7 +310,7 @@ coisa{
 }
 ```
 
-<img src="C:\Users\Simone\AppData\Roaming\Typora\typora-user-images\image-20201210200241825.png" alt="image-20201210200241825" style="zoom:50%;" />![image-20201210200331458](C:\Users\Simone\AppData\Roaming\Typora\typora-user-images\image-20201210200331458.png)
+<img src="image_html-css\image-20201210200241825.png" alt="image-20201210200241825" style="zoom:50%;" />
 
 ```css
 coisa{
@@ -318,7 +318,7 @@ coisa{
 }
 ```
 
-<img src="C:\Users\Simone\AppData\Roaming\Typora\typora-user-images\image-20201210200241825.png" alt="image-20201210200241825" style="zoom:50%;" />![image-20201210200331458](C:\Users\Simone\AppData\Roaming\Typora\typora-user-images\image-20201210200331458.png)
+<img src="image_html-css\image-20201210200241825.png" alt="image-20201210200241825" style="zoom:50%;" />
 
 ```css
 coisa{
@@ -326,7 +326,7 @@ coisa{
 }
 ```
 
-<img src="C:\Users\Simone\AppData\Roaming\Typora\typora-user-images\image-20201210200435727.png" alt="image-20201210200435727" style="zoom:50%;" />
+<img src="image_html-css\image-20201210200435727.png" alt="image-20201210200435727" style="zoom:50%;" />
 
 ## Estilizando Textos
 
