@@ -10,7 +10,7 @@ HTML 5 – 2014
 
 ### anatomia de uma tag HTML
 
-![image-20201210150814807](C:\Users\Simone\AppData\Roaming\Typora\typora-user-images\image-20201210150814807.png)
+![image-20201210150814807](image_html-css\image-20201210150814807.png)
 
 ## Semântica
 Como organizar os elementos 
